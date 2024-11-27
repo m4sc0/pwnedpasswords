@@ -15,3 +15,5 @@ git clone https://github.com/m4sc0/pwnedpasswords
 cd pwnedpasswords
 python main.py
 ```
+
+That's it. Have fun!
